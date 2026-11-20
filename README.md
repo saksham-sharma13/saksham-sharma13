@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&amp;height=240&amp;color=0:080B16,35:321477,70:AD187F,100:FF6B35&amp;text=Saksham%20Sharma&amp;fontSize=52&amp;fontColor=FFFFFF&amp;fontAlignY=47&amp;desc=THE%20NEXT%20FRONTIER%20IS%20INTELLIGENCE&amp;descSize=13&amp;descAlignY=68&amp;animation=fadeIn" alt="Saksham Sharma — The next frontier is intelligence" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;height=190&amp;section=header&amp;color=0:080B16,35:321477,70:AD187F,100:FF6B35&amp;text=Saksham%20Sharma&amp;fontSize=55&amp;fontColor=FFFFFF&amp;fontAlign=50&amp;fontAlignY=42&amp;desc=THE%20NEXT%20FRONTIER%20IS%20INTELLIGENCE&amp;descSize=17&amp;descAlign=50&amp;descAlignY=66" alt="Saksham Sharma — The next frontier is intelligence" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=2800&amp;pause=900&amp;color=F472B6&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Exploring+the+science+of+intelligence;Where+data+meets+imagination;Think+deeper.+Build+better.;Always+in+learning+mode." alt="Exploring the science of intelligence" /></a>
 
